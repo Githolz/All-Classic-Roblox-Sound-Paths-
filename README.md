@@ -18,6 +18,7 @@ oof: rbxasset://sounds/uuhhh.mp3
 tada!: rbxasset://sounds/victory.mp3
 
 Other sounds (you probably wont need them)
+
 rbxasset://sounds/woodgrass.mp3
 
 rbxasset://sounds/woodgrass2.mp3
@@ -161,6 +162,7 @@ old click sound: rbxasset://sounds/button.mp3
 Timed Bomb Sound rbxasset://sounds/clickfast.mp3
 
 explode: rbxasset://sounds/collide.mp3
+
 idk what to name this: rbxasset://sounds/electronicpingshort.mp3
 
 hit or something: rbxasset://sounds/flashbulb.mp3
