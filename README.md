@@ -1,14 +1,24 @@
 # All-Classic-Roblox-Sound-Paths-
 how to use this:
+
 step one: Launch Roblox Studio
+
 step two: Make a place
+
 step three: click on the plus while hovering on workspace
+
 step four: Click on "Search Object" and search Sound
+
 step five: click on "Sound" with the orange speaker (sorry if youre colorblind🥀)
+
 step six: click on "Sound" that is on workspace
+
 step seven: go to properties
+
 step eight: look for AudioContent or SoundId
+
 then paste any sound you want from the list! (list will be below the tutorial)
+
 and youre done :3
 
 **The list!**
